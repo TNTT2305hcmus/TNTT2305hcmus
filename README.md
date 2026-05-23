@@ -110,6 +110,9 @@
   <a href="https://www.linkedin.com/in/trannguyentrithanh/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
+   <a href="trannguyentrithanh38@gmail.com">
+      <img src="https://img.icons8.com/?size=40&id=EgRndDDLh8kS&format=png&color=000000">
+   </a>
   <a href="https://github.com/TNTT2305hcmus" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/github--v2.png">
   </a>
@@ -118,6 +121,9 @@
   </a>
   <a href="https://www.instagram.com/aodabanhgiagoc/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+  </a>
+   <a href="https://x.com/tntt23" target="_blank">
+    <img src="https://img.icons8.com/?size=40&id=80447&format=png&color=000000">
   </a>
 </p>
 
