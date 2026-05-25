@@ -1,8 +1,3 @@
-<!-- Above border -->
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
-
 <!-- Profile Welcome -->
 
 <h1 align="center">Hi, I'm Tran Nguyen Tri Thanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -21,17 +16,17 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/u/162537045?s=400&u=207f3e5c6b35e8fe6b1d5d13e31c72e6c1229c21&v=4" width="30%" style="margin-left: 16px; margin-bottom: 8px;">
 
-- 🎓 3rd-year **Information Security** student at VNU-HCMUS.
-- 🛡️ Focused on becoming a **Security Engineer and Smart Contract Auditor**
-- 💻 Experienced in full-stack development (**MERN, Go**) and decentralized application (**Solidity**).
-- 🌱 Actively researching cybersecurity, blockchain security models, and smart contract vulnerabilities.
-- 🏃‍♂️ When I'm not studying, you can find me at the gym, running, or managing my sports apparel store!
-- 📫 How to reach me: **trannguyentrithanh38@gmail.com**
-- 📄 See what I do in [**my portfolio**](https://tntt2305hcmus.github.io/tntt-portfolio-version1.0/)
+- 3rd-year **Information Security** student at VNU-HCMUS.
+- Focused on becoming a **Security Engineer and Smart Contract Auditor**
+- Experienced in full-stack development (**MERN, Go**) and decentralized application (**Solidity**).
+- Actively researching cybersecurity, blockchain security models, and smart contract vulnerabilities.
+- When I'm not studying, you can find me at the gym, running, or managing my sports apparel store!
+- How to reach me: **trannguyentrithanh38@gmail.com**
+- See what I do in [**my portfolio**](https://tntt2305hcmus.github.io/tntt-portfolio-version1.0/)
 
 ## ⚙️ Technologies That I Know
 
-### 🗣️ Languages
+### Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -40,7 +35,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧰 Frameworks & Libraries
+### Frameworks & Libraries
 
 ![Foundry](https://img.shields.io/badge/Foundry-%23FF6C37.svg?style=for-the-badge&logo=foundry&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23FFF100.svg?style=for-the-badge&logo=hardhat&logoColor=black)
@@ -49,7 +44,7 @@
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
-### 🛠️ Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
