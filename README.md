@@ -74,21 +74,6 @@
 </a>
 </p>
 
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TNTT2305hcmus&theme=github_dark)
-
-</div>
-
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TNTT2305hcmus&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TNTT2305hcmus&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
