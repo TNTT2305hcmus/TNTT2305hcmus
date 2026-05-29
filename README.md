@@ -12,7 +12,7 @@
   <a href="https://github.com/TNTT2305hcmus/" align="center"><img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=TNTT2305hcmus"></a>
 </p>
 
-## 🧑‍💻 About Me
+## About Me
 
 <img align="right" src="https://avatars.githubusercontent.com/u/162537045?s=400&u=207f3e5c6b35e8fe6b1d5d13e31c72e6c1229c21&v=4" width="30%" style="margin-left: 16px; margin-bottom: 8px;">
 
@@ -24,7 +24,7 @@
 - How to reach me: **trannguyentrithanh38@gmail.com**
 - See what I do in [**my portfolio**](https://tntt2305hcmus.github.io/tntt-portfolio-version1.0/)
 
-## ⚙️ Technologies That I Know
+## Technologies 
 
 ### Languages
 
@@ -54,7 +54,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-## 📊 Profile Statistics
+## Profile Statistics
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 🐍 A Snake Eating my Contributions Graph
+## My Contributions Graph
 
 <p align="center">
   <picture>
@@ -84,7 +84,7 @@
 </p>
 
 
-## Connect With Me 🤝
+## Connect With Me 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/trannguyentrithanh/" target="_blank">
