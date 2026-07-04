@@ -21,8 +21,6 @@
 - Experienced in full-stack development (**MERN, Go**) and decentralized application (**Solidity**).
 - Actively researching cybersecurity, blockchain security models, and smart contract vulnerabilities.
 - When I'm not studying, you can find me at the gym, running, or managing my sports apparel store!
-- How to reach me: **trannguyentrithanh38@gmail.com**
-- See what I do in [**my portfolio**](https://tntt2305hcmus.github.io/tntt-portfolio-version1.0/)
 
 ## Technologies 
 
