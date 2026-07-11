@@ -14,8 +14,6 @@
 
 ## About Me
 
-<img align="right" src="https://avatars.githubusercontent.com/u/162537045?s=400&u=207f3e5c6b35e8fe6b1d5d13e31c72e6c1229c21&v=4" width="30%" style="margin-left: 16px; margin-bottom: 8px;">
-
 - 3rd-year **Information Security** student at VNU-HCMUS.
 - Focused on becoming a **AppSec/Web Security** and **Smart Contract Auditor/Researcher**
 - Experienced in full-stack development (**MERN, Go**) and decentralized application (**Solidity**).
