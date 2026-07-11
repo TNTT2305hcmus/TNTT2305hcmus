@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/TNTT2305hcmus/" align="center"><img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=TNTT2305hcmus"></a>
-</p>
-
 ## About Me
 
 - 3rd-year **Information Security** student at VNU-HCMUS.
