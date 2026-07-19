@@ -11,7 +11,8 @@
 ## About Me
 
 - 3rd-year **Information Security** student at VNU-HCMUS.
-- Focused on becoming a **AppSec/Web Security** and **Smart Contract Auditor/Researcher**
-- Experienced in full-stack development (**MERN, Go**) and decentralized application (**Solidity**).
+- Focused on becoming a **Web Pentest Security**.
+- Experienced in full-stack development (**MERN, Go**)
+- Audit Smart Contract like hobby.
 - Actively researching cybersecurity, blockchain security models, and smart contract vulnerabilities.
 - When I'm not studying, you can find me at the gym, running, or managing my sports apparel store
