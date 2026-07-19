@@ -4,15 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/TNTT2305hcmus">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Information+Security+Student;Security+Engineer;Smart+Contract+Auditor;Web3+Security+Researcher;Welcome+to+my+github+%E2%9A%A1" style="vertical-align: middle;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Information+Security+Student;Penetration+Tester;Smart+Contract+Auditor;Welcome+to+my+github+%E2%9A%A1" style="vertical-align: middle;">
   </a>
 </p>
 
 ## About Me
 
 - 3rd-year **Information Security** student at VNU-HCMUS.
-- Focused on becoming a **Web Pentest Security**.
-- Experienced in full-stack development (**MERN, Go**)
+- Focused on becoming a **Web Security Engineering (Pentester)**.
+- Experienced in full-stack development **(MERN, Go)**.
 - Audit Smart Contract like hobby.
-- Actively researching cybersecurity, blockchain security models, and smart contract vulnerabilities.
 - When I'm not studying, you can find me at the gym, running, or managing my sports apparel store
