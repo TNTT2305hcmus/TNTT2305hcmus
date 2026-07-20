@@ -12,6 +12,6 @@
 
 - 3rd-year **Information Security** student at VNU-HCMUS.
 - Focused on becoming a **Web Security Engineering (Pentester)**.
-- Experienced in full-stack development **(MERN, Go)**.
+- Experienced in **Frontend, Backend, Blockchain and Penetration Testing**. 
 - Audit Smart Contract like hobby.
 - When I'm not studying, you can find me at the gym, running, or managing my sports apparel store
