@@ -10,12 +10,12 @@
 
 ## About Me
 
-I'm a final-year **Information Security** student with hands-on experience in **Backend, Frontend, Penetration Testing, Blockchain fundamentals**, and **AI Agent**.
+I'm a final-year **Information Security** student with interest in Full-stack development.
 
 With a **security-focused mindset**, I aim to build systems that are not only functional and scalable but also **secure, maintainable, and reliable**.
-My current goal is to strengthen my **full-stack** development skills, deepen my knowledge of **secure coding**, and explore how **blockchain** and **AI Agent** technologies can be integrated into real-world applications.
+My current goal is to become a **Software Engineer**, deepen my knowledge in fullstack and secure coding. 
 
 I enjoy learning through practical projects, solving technical challenges, and collaborating with others to turn meaningful ideas into impactful solutions.
-I'm always open to new opportunities, challenges, and collaborations that allow me to grow as both a **software developer** and **security professional**.
+I'm always open to new opportunities, challenges, and collaborations. I also want to explore about Blockchain and AI Agent technologies.
 
 Let's connect and create something valuable together.
