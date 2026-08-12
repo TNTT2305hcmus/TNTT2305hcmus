@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/TNTT2305hcmus">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Information+Security+Student;Software+Engineer;Penetration+Tester;Welcome+to+my+github+%E2%9A%A1" style="vertical-align: middle;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Information+Security+Student;Software+Engineer;Welcome+to+my+github+%E2%9A%A1" style="vertical-align: middle;">
   </a>
 </p>
 
